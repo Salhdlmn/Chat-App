@@ -1,3 +1,3 @@
 # Chat-App
-![](Chat App.gif)
+![](Chat-App.gif)
 
